@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Template two kasber"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website food"
+	}
+}
