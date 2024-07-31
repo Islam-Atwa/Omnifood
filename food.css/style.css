@@ -231,7 +231,7 @@ header{
         padding: 0;
         position: relative;
         top: 25px;
-        font-size: 15px;
+        font-size: 1px;
         max-width: 120px;
         flex-wrap: wrap;
     }
@@ -821,8 +821,8 @@ header{
     }
     .include{
         text-align: center;
-        margin: 1px 23px ;
-        width: 23rem;
+        margin: 6px 0px ;
+        width: 20rem;
         font-size: medium;
         position: relative;
         left: 50%;
